@@ -1,7 +1,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&width=435&lines=Schooze;ROS+2+Programmer;C+and+Python+Expert;Arduino+%26+STM32+Enthusiast;Open-source+Contributor;Automation+%26+Robotics+Fanatic!)
 
 ## 🛠️ About Me  
-👋 Hey there! I'm **Nurmansya Alisyahid**, a passionate **ROS 2 developer** and robotics enthusiast. I'm currently pursuing my degree at **Diponegoro University** while actively contributing to the **Bandhayudha ABUROBOCON Team**, where we push the boundaries of robotic innovation. 🚀  
+👋 Hey there! I'm **Nurmansya Alisyahid**, **ROS 2 developer** and robotics engineer. I'm currently pursuing my degree at **Diponegoro University** while actively contributing to the **Bandhayudha ABUROBOCON Team**. 🚀  
 - 🤖 I specialize in **ROS 2 programming** for robotics and automation.  
 - 💻 Proficient in **C** and **Python**, with expertise in hardware-level programming.  
 - 🛡️ Experienced with **Arduino** and **STM32** for microcontroller projects.  
